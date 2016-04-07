@@ -1,0 +1,6 @@
+# behat.yml
+default:
+    context:
+        parameters:
+             base_url: http://127.0.0.1:1000
+#            base_url: http://localhost/restler/public
